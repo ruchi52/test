@@ -3,5 +3,10 @@ body{
 	color:black;
 	background-color: grey;
 	font-family: 'Oxygen', sans-serif;
+}
 
+#header-nav{
+	background-color: black;
+	border-radius:0;
+	border: 0;
 }
