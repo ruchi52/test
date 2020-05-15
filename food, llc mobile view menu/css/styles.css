@@ -1,0 +1,22 @@
+.navbar-brand{
+    font-family: 'Balsamiq Sans', cursive;
+}
+.nav1{
+    border: 3px solid black;
+}
+#nav1{
+    background-color: gainsboro;
+}
+.container{
+    background-color:gainsboro;
+}
+
+
+
+
+@media(min-width:1200px){
+    
+}
+@media(min-width:500px){
+    
+}
