@@ -50,7 +50,7 @@ row{
     }
 }
 @media(min-width:768px) and (max-width:991px){
-     #b{
+    #b{
     margin-left: 10px;
     margin-right: 10px;
 }
