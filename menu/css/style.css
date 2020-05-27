@@ -197,17 +197,24 @@ h2{
 @media(max-width:767px){
 	.chicken{
 		width: 1500px;	
-		float: left;
-		height: 200px;
+		float: left;		
 	}
 	.beef{
 		width: 1500px;
 		float: left;
-		height: 200px;
+
+
+		
 	}
 	.sushi{
 		width: 1500px;
 		float: left;
-		height: 200px;
+
+
 	}
 }
+
+#menu{
+	width: 100%
+}
+
